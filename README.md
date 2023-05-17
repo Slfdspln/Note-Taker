@@ -35,6 +35,7 @@ This application was developed to provide users with a platform for organizing t
 
 ## Live-URL-of-Deployed-Application 
 
+https://notes-ucberkeley.herokuapp.com/
  
 ##  Live Screen Recording of Application Functionality 
 
