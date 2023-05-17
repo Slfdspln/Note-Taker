@@ -40,6 +40,11 @@ This application was developed to provide users with a platform for organizing t
 
 ## Screenshots 
 
+<img width="1470" alt="Screenshot 2023-05-16 at 6 25 01 PM" src="https://github.com/Slfdspln/note-taker/assets/121422214/b6234aae-c5aa-4718-8ceb-f0f5eb6c164c">
+<img width="1214" alt="Screenshot 2023-05-16 at 6 25 25 PM" src="https://github.com/Slfdspln/note-taker/assets/121422214/a306734b-1871-46a4-93dc-76753e3b1df0">
+<img width="1470" alt="Screenshot 2023-05-16 at 6 25 55 PM" src="https://github.com/Slfdspln/note-taker/assets/121422214/16cb5048-12ed-40f8-83bc-f0958e3a6227">
+
+
 
 ## Technologies Used
 
