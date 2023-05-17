@@ -43,15 +43,13 @@ https://drive.google.com/file/d/16mjh5Pk8DIZsmYwZ340xfOBqjaGSaVU9/view
 
 ## Screenshots 
 
-<img width="1470" alt="Screenshot 2023-05-16 at 6 25 01 PM" src="https://github.com/Slfdspln/note-taker/assets/121422214/b6234aae-c5aa-4718-8ceb-f0f5eb6c164c">
+<img width="1470" alt="Screenshot 2023-05-16 at 10 08 45 PM" src="https://github.com/Slfdspln/note-taker/assets/121422214/3168251b-b9c3-4e3a-a06e-8d2e3794a036">
 
-<img width="1214" alt="Screenshot 2023-05-16 at 6 25 25 PM" src="https://github.com/Slfdspln/note-taker/assets/121422214/a306734b-1871-46a4-93dc-76753e3b1df0">
+<img width="1208" alt="Screenshot 2023-05-16 at 10 09 20 PM" src="https://github.com/Slfdspln/note-taker/assets/121422214/1c24398a-ca0c-4512-ba72-cfb76493a375">
 
-<img width="1470" alt="Screenshot 2023-05-16 at 6 25 55 PM" src="https://github.com/Slfdspln/note-taker/assets/121422214/16cb5048-12ed-40f8-83bc-f0958e3a6227">
+<img width="1470" alt="Screenshot 2023-05-16 at 10 09 43 PM" src="https://github.com/Slfdspln/note-taker/assets/121422214/7f860dee-fdb5-4d70-bbe7-c1e5e127c25e">
 
-<img width="1470" alt="Screenshot 2023-05-16 at 6 26 09 PM" src="https://github.com/Slfdspln/note-taker/assets/121422214/3d7f2369-d526-427b-bc68-6f6a30f453e6">
-
-
+<img width="1470" alt="Screenshot 2023-05-16 at 10 09 50 PM" src="https://github.com/Slfdspln/note-taker/assets/121422214/e428254d-8cff-4671-8031-eaa4f5a51aae">
 
 
 ## Technologies Used
