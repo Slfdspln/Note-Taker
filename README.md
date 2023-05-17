@@ -38,6 +38,8 @@ This application was developed to provide users with a platform for organizing t
  
 ##  Live Screen Recording of Application Functionality 
 
+https://drive.google.com/file/d/16mjh5Pk8DIZsmYwZ340xfOBqjaGSaVU9/view
+
 ## Screenshots 
 
 <img width="1470" alt="Screenshot 2023-05-16 at 6 25 01 PM" src="https://github.com/Slfdspln/note-taker/assets/121422214/b6234aae-c5aa-4718-8ceb-f0f5eb6c164c">
